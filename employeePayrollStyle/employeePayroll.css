@@ -21,7 +21,7 @@ body {
     flex-direction: row;
     align-items: center;
     border: 0px solid green;
-    width: 80%;
+    width: 60%;
 }
 
 .logo-content-img {
@@ -97,7 +97,6 @@ label {
     opacity: 1;
     /* font-family: Roboto; */
     font-family: 'Baloo Bhai 2', cursive;
-
 }
 
 .input {
@@ -161,7 +160,6 @@ select {
 
 .button:hover {
     background: #a2ca1e;
-
 }
 
 .submitButton {
@@ -172,7 +170,6 @@ select {
     border-radius: 15px;
     opacity: 1;
     box-shadow: 0px 3px 6px black;
-
 }
 
 .cancelButton {
@@ -192,13 +189,12 @@ select {
     border-radius: 15px;
     opacity: 1;
     box-shadow: 0px 3px 6px black;
-
 }
 
 error-output {
     margin-left: 10px;
     font-size: 12px;
-    font-style: italic;
+    font-style: oblique;
     color: red;
 }
 
@@ -242,7 +238,6 @@ error-output {
         flex-direction: column-reverse;
         align-items: flex-start;
     }
-
 }
 
 #notes {
